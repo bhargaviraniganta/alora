@@ -1,0 +1,3642 @@
+[
+  {
+    "DRUG NAME":"Indapamide",
+    "EXCIPIENT NAME":"lactose monohydrate",
+    "SMILE CODE (drug)":"ClC1=CC(=C(C=C1)S(=O)(=O)N)C(=O)N2C3=CC=CC=C3C(C)N2"
+  },
+  {
+    "DRUG NAME":"Indapamide",
+    "EXCIPIENT NAME":"Microcrystalline Cellulose (MCC)",
+    "SMILE CODE (drug)":"ClC1=CC(=C(C=C1)S(=O)(=O)N)C(=O)N2C3=CC=CC=C3C(C)N3"
+  },
+  {
+    "DRUG NAME":"Indapamide",
+    "EXCIPIENT NAME":"Polyvinylpyrrolidone (PVP)",
+    "SMILE CODE (drug)":"ClC1=CC(=C(C=C1)S(=O)(=O)N)C(=O)N2C3=CC=CC=C3C(C)N4"
+  },
+  {
+    "DRUG NAME":"Indapamide",
+    "EXCIPIENT NAME":"Sodium Starch Glycolate",
+    "SMILE CODE (drug)":"ClC1=CC(=C(C=C1)S(=O)(=O)N)C(=O)N2C3=CC=CC=C3C(C)N5"
+  },
+  {
+    "DRUG NAME":"Indapamide",
+    "EXCIPIENT NAME":"Magnesium Stearate",
+    "SMILE CODE (drug)":"ClC1=CC(=C(C=C1)S(=O)(=O)N)C(=O)N2C3=CC=CC=C3C(C)N6"
+  },
+  {
+    "DRUG NAME":"Indapamide",
+    "EXCIPIENT NAME":"Colloidal Silicon Dioxide (Aerosil)",
+    "SMILE CODE (drug)":"ClC1=CC(=C(C=C1)S(=O)(=O)N)C(=O)N2C3=CC=CC=C3C(C)N7"
+  },
+  {
+    "DRUG NAME":"Ampicillin",
+    "EXCIPIENT NAME":"Lactose (solid, mainly monohydrate)",
+    "SMILE CODE (drug)":"C1(C(N2C(C(C2=O)NC(C3=CC=CC=C3)C(=O)O)SC1)C(=O)O)N"
+  },
+  {
+    "DRUG NAME":"Etamsylate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CCN(CC)CCOc1ccc(cc1)S(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Fluconazole",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"C1=CN=CN1C(CO)(CO)C(c2ccc(F)cc2)(c3ccc(F)cc3)n4ccnc4"
+  },
+  {
+    "DRUG NAME":"Acyclovir",
+    "EXCIPIENT NAME":"Lactose (anhydrous & monohydrate)",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCCO"
+  },
+  {
+    "DRUG NAME":"Ganciclovir",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCC(O)CO"
+  },
+  {
+    "DRUG NAME":"Fluoxetine hydrochloride",
+    "EXCIPIENT NAME":"Lactose (capsule\/tablet diluent)",
+    "SMILE CODE (drug)":"CNCCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2"
+  },
+  {
+    "DRUG NAME":"Amoxicillin",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1(C(NC2=NC=NC(=N2)N)=O)C(=O)N(C1=O)CO"
+  },
+  {
+    "DRUG NAME":"Cilostazol",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(CCOC2=CC=CC=C2)N1C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Atenolol",
+    "EXCIPIENT NAME":"Native starch \/ SSG",
+    "SMILE CODE (drug)":"CC(C)(CO)NC(CO)COC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Acetylcysteine",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC(=O)NCC(S)=O"
+  },
+  {
+    "DRUG NAME":"Gliclazide",
+    "EXCIPIENT NAME":"Chickpea starch",
+    "SMILE CODE (drug)":"CC1=NS(=O)(=O)NC1CC2=CC=C(S(=O)(=O)N3CCCCC3)C=C2"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"COC1=C(C=CC2=CC(=O)OC2=O)C=C1C3=CC=CC=C3Cl"
+  },
+  {
+    "DRUG NAME":"Acyclovir",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"NC1=NC=NC2=C1N=CN2CO"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Corn starch (common starch)",
+    "SMILE CODE (drug)":"CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Starch (native \/ pregelatinized)",
+    "SMILE CODE (drug)":"CC(C)CC1=CC=C(C=C1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"CC(C)CC1=CC=C(C=C1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"CC1=CC(C(C)C(=O)O)=CC=C1OC"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Amoxicillin",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"CC1(C(NC(=O)C2=CC=CC=C2)C(=O)O)N1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Metronidazole",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"Cn1c([N+](=O)[O-])ccc1C2=NO"
+  },
+  {
+    "DRUG NAME":"Trioxsalen",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"COC1=CC2=C(C=C1)C=CC(=O)O2"
+  },
+  {
+    "DRUG NAME":"Telmisartan",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"CC1=CC=C(C=C1)C2=NN(C(=O)C3=CC=CC=C3)C2"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"O=C(NC1=CC=CC(=C1)S(=O)(=O)N)O"
+  },
+  {
+    "DRUG NAME":"Paroxetine",
+    "EXCIPIENT NAME":"Micro crystalline cellulose",
+    "SMILE CODE (drug)":"COC1=CC2=C(C=C1)N(C3CCN(CC3)C)C2"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"PVP monomer proxy)",
+    "SMILE CODE (drug)":"NC(=O)N1c2ccccc2C=Cc2c1cccc2"
+  },
+  {
+    "DRUG NAME":"Acetaminophen (Paracetamol)",
+    "EXCIPIENT NAME":"PVP monomer proxy)",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Ketoconazole",
+    "EXCIPIENT NAME":"PVP monomer proxy)",
+    "SMILE CODE (drug)":"CC(C)(C)OC1=CN=C(NC2=CC=C(OCC3=CC=CC=C3)C=C2)N1CC4=CC=CC=C4Cl"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"PVP monomer proxy)",
+    "SMILE CODE (drug)":"CC(C)C1=CC=C(C=C1)C(=O)C2=CC=CC=C2C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ganciclovir",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"O=C2\/N=C(\\Nc1n(cnc12)COC(CO)CO)N"
+  },
+  {
+    "DRUG NAME":"Rivaroxaban",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"C1COCC(=O)N1C2=CC=C(C=C2)N3CC(OC3=O)CNC(=O)C4=CC=C(S4)Cl"
+  },
+  {
+    "DRUG NAME":"Chloroquine Phosphate",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12"
+  },
+  {
+    "DRUG NAME":"Aspirin (Acetylsalicylic acid)",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(=O)Oc1ccccc1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Paracetamol",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CN(C)C(=N)NC(=N)N"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Arbidol (Umifenovir)",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(C)OC1=CC(Br)=C(O)C=C1C(C)(C)NCC"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(C)CC1=CC=C(C=C1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Hydrocortisone",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"C[C@]12CCC3C(C1CCC2=O)CCC4=CC(=O)C=CC34O"
+  },
+  {
+    "DRUG NAME":"Modafinil",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CS(=O)C(C(=O)NC1=CC=CC=C1)(C2=CC=CC=C2)"
+  },
+  {
+    "DRUG NAME":"Pioglitazone HCl",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC1=C(S(=O)CCN1C2=CC=C(O)C=C2)C"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC1=CC(=O)OC2=CC=CC=C2C1=O"
+  },
+  {
+    "DRUG NAME":"Valproic Acid",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CCCC(CCC)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Acetaminophen",
+    "EXCIPIENT NAME":"PVP (adsorption \/ surface interaction)",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"PVP (solid dispersion)",
+    "SMILE CODE (drug)":"CC1=CC(=O)OC2=CC=CC=C2C1=O"
+  },
+  {
+    "DRUG NAME":"Ganciclovir",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"O=C2\/N=C(\\Nc1n(cnc12)COC(CO)CO)N"
+  },
+  {
+    "DRUG NAME":"Rivaroxaban",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"C1COCC(=O)N1C2=CC=C(C=C2)N3CC(OC3=O)CNC(=O)C4=CC=C(S4)Cl"
+  },
+  {
+    "DRUG NAME":"Chloroquine Phosphate",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"OP(O)(O)=O.CCN(CC)CCCC(C)NC1=CC=NC2=CC(Cl)=CC=C12"
+  },
+  {
+    "DRUG NAME":"Rosmarinic acid",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"O=C(O)C(OC(=O)\\C=C\\c1ccc(O)c(O)c1)Cc2cc(O)c(O)cc2"
+  },
+  {
+    "DRUG NAME":"Ritonavir",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(C)C1=NC(=O)N(C(C(C)C)C(=O)N2CCC(CC2)NC(=O)C(Cc3ccccc3)NC(=O)OC(C)(C)C)C(=O)N1"
+  },
+  {
+    "DRUG NAME":"Carvedilol",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"OCC(COC1=CC=C(C=C1)OC2=CC=C(C=C2)NCC3CCCCC3)O"
+  },
+  {
+    "DRUG NAME":"Lansoprazole",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1=NC2=NC(N)=NC(N2C(=O)N1C3=CC=CC=C3)S(=O)CH3"
+  },
+  {
+    "DRUG NAME":"Tenoxicam",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1=NN(C(=O)N1C2=CC=CC=C2)C3=CC=CC=C3S(=O)2"
+  },
+  {
+    "DRUG NAME":"Diclofenac sodium",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1=CC=C(C=C1)NC(=O)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Atenolol",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(C)(C(O)CO)NC(=O)C1=CC=CC=C1OC"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CN(C)C(=N)NC(=N)N"
+  },
+  {
+    "DRUG NAME":"Escitalopram oxalate",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"C1CN(CCO1)C(C2=CC=CC=C2)C3=CC=CC=C3C(F)(F)F.O=C(O)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Rosmarinic acid",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"O=C(O)C(OC(=O)\\C=C\\c1ccc(O)c(O)c1)Cc2cc(O)c(O)cc2"
+  },
+  {
+    "DRUG NAME":"Omeprazole sodium (omeprazole OSA)",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"COC1=C(N=CN1C2=CC=CC=C2OC)S(=O)[O-].[Na+]"
+  },
+  {
+    "DRUG NAME":"Paracetamol (acetaminophen)",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Gliclazide",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"NC1=NC(=O)N(C1=O)c2ccc(cc2)S(=O)(=O)C"
+  },
+  {
+    "DRUG NAME":"Diclofenac sodium",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"O=C([O-])CC1=CC=CC=C1NC2=CC=CC=C2Cl.[Na+]"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C(=O)O)c1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Carvedilol",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cc2c(cc1OC)C(=O)N(C2)CCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C)CC1=NC(=O)N(C1=O)C2=NC=CC=C2C(=O)OCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Olmesartan Medoxomil",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCC(CC1)COC(=O)C2=NC(C3=CC=CC=C3)=NC4=CC=C(C=C24)Cl"
+  },
+  {
+    "DRUG NAME":"Rosuvastatin Calcium",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C)(O)C1=CC=C(C=C1)S(=O)(=O)N2C(=O)C(C(CO)O)=C(C2=O)C3=NC=NC=C3"
+  },
+  {
+    "DRUG NAME":"Atorvastatin Calcium",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C)(C)OC(=O)C1=CC=CC=C1C(C2=CC=CC=C2)=C(O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Enalapril maleate",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCOC(=O)C1CCCN1CCOC(=O)C(C)CC(=O)O.O=C(O)C=CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C1=CC=CC=C1)C2=CC=CC=C2C(=O)O"
+  },
+  {
+    "DRUG NAME":"Rivaroxaban",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"C1COCC(=O)N1C2=CC=C(C=C2)N3CC(OC3=O)CNC(=O)C4=CC=C(S4)Cl"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C1=CC=CC=C1)C2=CC=CC=C2C(=O)O"
+  },
+  {
+    "DRUG NAME":"Montelukast Sodium",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)N=C(NC2=CC=CC=C2C(=O)O)COC3=CC=CC=C3C(C)(C)C.[Na+]"
+  },
+  {
+    "DRUG NAME":"Diclofenac Sodium",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC1=CC=C(C=C1)NC(=O)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Enalapril Maleate",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCOC(=O)C1CCCN1CCOC(=O)C(C)CC(=O)O.O=C(O)C=CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Carvedilol",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cc2c(cc1OC)C(=O)N(C2)CCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)CC1=NC(=O)N(C1=O)C2=NC=CC=C2C(=O)OCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Olmesartan Medoxomil",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCC(CC1)COC(=O)C2=NC(C3=CC=CC=C3)=NC4=CC=C(C=C24)Cl"
+  },
+  {
+    "DRUG NAME":"Rosuvastatin Calcium",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)(O)C1=CC=C(C=C1)S(=O)(=O)N2C(=O)C(C(CO)O)=C(C2=O)C3=NC=NC=C3"
+  },
+  {
+    "DRUG NAME":"Atorvastatin Calcium",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)(C)OC(=O)C1=CC=CC=C1C(C2=CC=CC=C2)=C(O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Rosmarinic Acid",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"O=C(O)C(OC(=O)\/C=C\/c1ccc(O)c(O)c1)Cc2cc(O)c(O)cc2"
+  },
+  {
+    "DRUG NAME":"Carvedilol",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cc2c(cc1OC)C(=O)N(C2)CCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)CC1=NC(=O)N(C1=O)C2=NC=CC=C2C(=O)OCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Olmesartan Medoxomil",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCC(CC1)COC(=O)C2=NC(C3=CC=CC=C3)=NC4=CC=C(C=C24)Cl"
+  },
+  {
+    "DRUG NAME":"Celecoxib",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"NS(=O)(=O)c1ccc(cc1)C(F)(F)F"
+  },
+  {
+    "DRUG NAME":"Itraconazole",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)N1C(=O)N(c2ccc(OC)c(c2)Cl)C1=O"
+  },
+  {
+    "DRUG NAME":"Nilvadipine",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCOC(=O)C1=C(C)NC(=O)C1c2ccc(OC)cc2"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC(Cl)=C(Cl)C=C12"
+  },
+  {
+    "DRUG NAME":"Fenofibrate",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCCCOC(=O)C(C1=CC=C(C=C1)Cl)(O)C2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Metoclopramide HCl",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCN(CC)CCNC1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Lidocaine",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCN(CC)C(=O)N(c1ccccc1)C(C)C"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CCOC(CN1CCCCC1)COC2=CC=C(C=C2)OC(=O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Carvedilol",
+    "EXCIPIENT NAME":"Hydroxy propyl methyl cellulose (HPMC)",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cc2c(cc1OC)C(=O)N(C2)CCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CN(C)C(=N)NC(=N)N"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Diclofenac Sodium",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1N(C2=CC=CC=C2C(=O)O)C(=O)"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Aceclofenac",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(=O)OC1=CC=C(C=C1)NC2=CC=CC=C2C(=O)O"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCOC(CN1CCCCC1)COC2=CC=C(C=C2)OC(=O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Ondansetron HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCN1CCN(CC1)C2=NC3=CC=C(O)C=C3N=C2"
+  },
+  {
+    "DRUG NAME":"Rosmarinic acid",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"O=C(O)C(OC(=O)\/C=C\/c1ccc(O)c(O)c1)Cc2cc(O)c(O)cc2"
+  },
+  {
+    "DRUG NAME":"Itraconazole",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCN(CC)C1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Lidocaine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCN(CC)C(=O)N(c1ccccc1)C(C)C"
+  },
+  {
+    "DRUG NAME":"Metoclopramide HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCN(CC)CCNC1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Tramadol HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCOC1=CC=C(C=C1)N(CC2)C(C2)O"
+  },
+  {
+    "DRUG NAME":"Diltiazem HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"COC(=O)OC1=CC=CC=C1C2=CCN(CC2)CCN3CCCCC3"
+  },
+  {
+    "DRUG NAME":"Theophylline",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"Cn1c(=O)n(C)c2ccc(OC)cc21"
+  },
+  {
+    "DRUG NAME":"Quetiapine fumarate",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC1(CCN(CC1)C2=NC3=CC=CC=C3N2)O"
+  },
+  {
+    "DRUG NAME":"Venlafaxine HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1OCC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Trimetazidine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCN(CC)CCNC1=CN=CC=C1"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Verapamil HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(CCN)C(C)C"
+  },
+  {
+    "DRUG NAME":"Isosorbide Mononitrate",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"OCC1OC(O)C(O)C(O)C1O"
+  },
+  {
+    "DRUG NAME":"Pioglitazone",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC1=CC=C(C=C1)N2C(=O)C(C3=CC=CC=C3)=C(O)N2"
+  },
+  {
+    "DRUG NAME":"Glimepiride",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(C2=CC=CC=C2S(=O)2)C1=O"
+  },
+  {
+    "DRUG NAME":"Ranitidine HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CN=C(N)N=C(N)NCCSC1=CC=C(C=C1)Cl"
+  },
+  {
+    "DRUG NAME":"Cimetidine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CN=CN=C(NC(C)C)NC(=S)NCC1=CN=CN1"
+  },
+  {
+    "DRUG NAME":"Famotidine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"N=C(N)NS(=O)(=O)c1nc(nc1NCC2CC2)NC"
+  },
+  {
+    "DRUG NAME":"Zidovudine (AZT)",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC1OC(O)C(NC(=O)N)c1N"
+  },
+  {
+    "DRUG NAME":"Lamivudine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"C1COC(CO)N1C=NN"
+  },
+  {
+    "DRUG NAME":"Didanosine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"NC1C(CO)OC(O)C1O"
+  },
+  {
+    "DRUG NAME":"Guaifenesin",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCC(O)CO"
+  },
+  {
+    "DRUG NAME":"Dextromethorphan HBr",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"COC1=CC2=C(C=C1)N(CC3)CC4CCC3C4"
+  },
+  {
+    "DRUG NAME":"Montelukast Sodium",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)N=C(NC2=CC=CC=C2C(=O)O)COC3=CC=CC=C3C(C)(C)C.[Na+]"
+  },
+  {
+    "DRUG NAME":"Tizanidine HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CN1CCC=C1C2=CN=CC=C2"
+  },
+  {
+    "DRUG NAME":"Oxcarbazepine",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(C1=O)C2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Topiramate",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(C)(C)N1C(=O)OC(C)(C)C1=O"
+  },
+  {
+    "DRUG NAME":"Ropinirole HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=C(C=C1)N2CCC[C@H]2O"
+  },
+  {
+    "DRUG NAME":"Cyclobenzaprine HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CN1CCC=C(C1)C2=CC=CC=C2C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Sertraline",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"Clc1ccc(cc1Cl)C2(CCN(CC2)C3=CC=C(O)C=C3)"
+  },
+  {
+    "DRUG NAME":"Tetracycline HCl",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Clarithromycin",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(C)C(C(=O)O)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Erythromycin",
+    "EXCIPIENT NAME":"HPMC",
+    "SMILE CODE (drug)":"CC(C)N(C)C1OC(CO)C(C)(O)O1"
+  },
+  {
+    "DRUG NAME":"Nateglinide ",
+    "EXCIPIENT NAME":"Magnesium Stearate",
+    "SMILE CODE (drug)":"CC(C)CC(=O)NC1CCC(CC1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"PEG 4000\u20136000",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Aspirin",
+    "EXCIPIENT NAME":"PEG 4000",
+    "SMILE CODE (drug)":"CC(=O)Oc1ccccc1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"PEG 4000",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Piroxicam",
+    "EXCIPIENT NAME":"PEG 4000 \/ 6000",
+    "SMILE CODE (drug)":"CC1=CC(=O)N2C1=NC(=O)C=C2SC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Meloxicam",
+    "EXCIPIENT NAME":"PEG 6000",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)S(=O)(=O)NC2=NN(C)=C(C2=O)NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Celecoxib",
+    "EXCIPIENT NAME":"PEG 4000",
+    "SMILE CODE (drug)":"NS(=O)(=O)c1ccc(cc1)C(F)(F)F"
+  },
+  {
+    "DRUG NAME":"Nifedipine",
+    "EXCIPIENT NAME":"PEG 400 \/ 6000",
+    "SMILE CODE (drug)":"COC(=O)C1=CC=CC=C1C2=CN=CC=C2"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"PEG 4000",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC(Cl)=C(Cl)C=C12"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"PEG 4000",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"PEG 4000\u20136000",
+    "SMILE CODE (drug)":"CC1=C(C2=C(N1C(=O)C3=CC=CC=C3)C=CC(=C2)OC)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Acetaminophen",
+    "EXCIPIENT NAME":"PEG 6000",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"PEG 4000",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Erythromycin",
+    "EXCIPIENT NAME":"PEG (High MW)",
+    "SMILE CODE (drug)":"CC(C)C(C(=O)O)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Omeprazole",
+    "EXCIPIENT NAME":"PEG",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)NC(=O)N2C=NC=NC2=O"
+  },
+  {
+    "DRUG NAME":"Lansoprazole",
+    "EXCIPIENT NAME":"PEG",
+    "SMILE CODE (drug)":"CCOC(=O)N1C2=CC=CC=C2SC1=NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Cilostazol",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCC(CC1)OC2=CC=CC=C2C#N"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC(Cl)=C(Cl)C=C12"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Paracetamol (Acetaminophen)",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Loratadine",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(C)(C)OC(=O)N1CCC(=C2C=CC=CC2)C1"
+  },
+  {
+    "DRUG NAME":"Chlorpromazine HCl",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CN(C)CCCN1c2ccccc2Sc3ccc(cc13)Cl"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Verapamil HCl",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(C)N(CCC(C)OC1=CC=CC=C1)C(C)C"
+  },
+  {
+    "DRUG NAME":"Metoprolol Tartrate",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Amlodipine Besylate",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CCN(CC)CCOC1=CC=C(C=C1)Cl"
+  },
+  {
+    "DRUG NAME":"Celecoxib",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC1=NN(C(=O)C1)S(=O)(=O)C4=CC=C(F)C=C4"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC(C)C1=NC(=O)N(C(=O)N1)C2=CC=C(C=C2)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Pantoprazole Sodium",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"COC1=CC(=C(C=C1)OC)N2C(=O)NC(=O)S2"
+  },
+  {
+    "DRUG NAME":"Losartan Potassium",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CC1=NC(C)=NC(=O)N1C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Dipyridamole",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"CCN(CC)CCN1C2=CC=CC=C2C(=O)N=C1N"
+  },
+  {
+    "DRUG NAME":"Clopidogrel Bisulfate",
+    "EXCIPIENT NAME":"SLS",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)C2SCC3=NC=CC=C23"
+  },
+  {
+    "DRUG NAME":"Carvedilol",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cc2c(cc1OC)C(=O)N(C2)CCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC(Cl)=C(Cl)C=C12"
+  },
+  {
+    "DRUG NAME":"Celecoxib",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"NS(=O)(=O)c1ccc(cc1)C(F)(F)F"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Piroxicam",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)N2C1=NC(=O)C=C2SC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Meloxicam",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)S(=O)(=O)NC2=NN(C)=C(C2=O)NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN(C)C(=N)NC(=N)N"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC(CN1CCCCC1)COC2=CC=C(C=C2)OC(=O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Glimepiride",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(C2=CC=CC=C2S(=O)2)C1=O"
+  },
+  {
+    "DRUG NAME":"Omeprazole",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)NC(=O)N2C=NC=NC2=O"
+  },
+  {
+    "DRUG NAME":"Lansoprazole",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC(=O)N1C2=CC=CC=C2SC1=NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Pantoprazole sodium",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)2NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Erythromycin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)C(C(=O)O)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Rivaroxaban",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1COCC(=O)N1C2=CC=C(C=C2)N3CC(OC3=O)CNC(=O)C4=CC=C(S4)Cl"
+  },
+  {
+    "DRUG NAME":"Olmesartan Medoxomil",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCC(CC1)COC(=O)C2=NC(C3=CC=CC=C3)=NC4=CC=C(C=C24)Cl"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)CC1=NC(=O)N(C1=O)C2=NC=CC=C2C(=O)OCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Losartan Potassium",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(C1)CC2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Simvastatin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCC(C)C1CCC2C3CCC(C=C3C(=O)O2)OC(=O)C(C)(C)OC"
+  },
+  {
+    "DRUG NAME":"Pravastatin Sodium",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)C1C(=O)OCC(O)C(CO)O1"
+  },
+  {
+    "DRUG NAME":"Sertraline",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"Clc1ccc(cc1Cl)C2(CCN(CC2)C3=CC=CC=C3)"
+  },
+  {
+    "DRUG NAME":"Quetiapine Fumarate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1(CCN(CC1)C2=NC3=CC=CC=C3N2)O"
+  },
+  {
+    "DRUG NAME":"Diltiazem HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC(=O)OC1=CC=CC=C1C2=CCN(CC2)CCN3CCCCC3"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Theophylline",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"Cn1c(=O)n(C)c2ccc(OC)cc21"
+  },
+  {
+    "DRUG NAME":"Venlafaxine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1OCC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Sitagliptin phosphate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(C1)C2=CN=C(NC3=CC=CC=C3)N2"
+  },
+  {
+    "DRUG NAME":"Ranitidine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN=C(N)N=C(N)NCCSC1=CC=C(C=C1)Cl"
+  },
+  {
+    "DRUG NAME":"Cimetidine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN=CN=C(NC(C)C)NC(=S)NCC1=CN=CN1"
+  },
+  {
+    "DRUG NAME":"Famotidine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"N=C(N)NS(=O)(=O)c1nc(nc1NCC2CC2)NC"
+  },
+  {
+    "DRUG NAME":"Itraconazole",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)N1C(=O)N(c2ccc(OC)c(c2)Cl)C1=O"
+  },
+  {
+    "DRUG NAME":"Ropinirole HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=C(C=C1)N2CCC[C@H]2O"
+  },
+  {
+    "DRUG NAME":"Montelukast Sodium",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC(=O)CC(C1=CC=CC=C1)[C@@H](O)CC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Tizanidine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN1CCC=C1C2=CN=CC=C2"
+  },
+  {
+    "DRUG NAME":"Cyclobenzaprine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN1CCC=C(C1)C2=CC=CC=C2C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Zidovudine (AZT)",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1OC(O)C(NC(=O)N)c1N"
+  },
+  {
+    "DRUG NAME":"Lamivudine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1COC(CO)N1C=NN"
+  },
+  {
+    "DRUG NAME":"Guaifenesin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCC(O)CO"
+  },
+  {
+    "DRUG NAME":"Dextromethorphan HBr",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC1=CC2=C(C=C1)N(CC3)CC4CCC3C4"
+  },
+  {
+    "DRUG NAME":"Levodopa",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"NC(C1=CC=C(O)C=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Gabapentin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1CC(NC(=O)O)CN1"
+  },
+  {
+    "DRUG NAME":"Topiramate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)(C)N1C(=O)OC(C)(C)C1=O"
+  },
+  {
+    "DRUG NAME":"Hydralazine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"NN=C(N)NNc1ccc(cc1)C"
+  },
+  {
+    "DRUG NAME":"Tetracycline HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Clarithromycin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)C(C(=O)O)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Itraconazole",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)N1C(=O)N(c2ccc(OC)c(c2)Cl)C1=O"
+  },
+  {
+    "DRUG NAME":"Ropinirole HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"Cl.CNCC1=CC=CC2=NC=NC=C12"
+  },
+  {
+    "DRUG NAME":"Montelukast Sodium",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)N=C(NC2=CC=CC=C2C(=O)[O-])COC3=CC=CC=C3C(C)(C)C.[Na+]"
+  },
+  {
+    "DRUG NAME":"Tizanidine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN1CCC=C1C2=CN=CC=C2"
+  },
+  {
+    "DRUG NAME":"Cyclobenzaprine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN1CCC=C(C1)C2=CC=CC=C2C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Zidovudine (AZT)",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1OC(O)C(NC(=O)N)c1N"
+  },
+  {
+    "DRUG NAME":"Lamivudine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1COC(CO)N1C=NN"
+  },
+  {
+    "DRUG NAME":"Guaifenesin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCC(O)CO"
+  },
+  {
+    "DRUG NAME":"Dextromethorphan HBr",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC1=CC2=C(C=C1)N(CC3)CC4CCC3C4"
+  },
+  {
+    "DRUG NAME":"Levodopa",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"NC(C1=CC=C(O)C=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Gabapentin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1CC(NC(=O)O)CN1"
+  },
+  {
+    "DRUG NAME":"Topiramate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)(C)N1C(=O)OC(C)(C)C1=O"
+  },
+  {
+    "DRUG NAME":"Hydralazine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"NN=C(N)NNc1ccc(cc1)C"
+  },
+  {
+    "DRUG NAME":"Tetracycline HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Clarithromycin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)C(C(=O)O)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Bisoprolol Fumarate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(cc1)O"
+  },
+  {
+    "DRUG NAME":"Atenolol",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(CO)NC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Metoprolol Tartrate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Prochlorperazine Maleate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN1CCN(CC1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Domperidone",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCN(CC)CCC1=CC(=O)N2C=CC=C12"
+  },
+  {
+    "DRUG NAME":"Tramadol HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC1=CC=C(C=C1)N(CC2)C(C2)O"
+  },
+  {
+    "DRUG NAME":"Ketamine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Risperidone",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=NC2=CC=CC=C2N(C1=O)CC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Aripiprazole",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=C(C=C1)N2CCC(CC2)NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Mirtazapine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC=NC2=CC=CC=C2C1"
+  },
+  {
+    "DRUG NAME":"Diazepam",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN1C(=O)N2C=NC(C3=CC=CC=C3Cl)=C2C(=O)N1C"
+  },
+  {
+    "DRUG NAME":"Lorazepam",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"Clc1ccc(cc1Cl)C2=NN=C(O2)"
+  },
+  {
+    "DRUG NAME":"Azithromycin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Doxycycline Hyclate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Minocycline HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)N(C1=O)C)O"
+  },
+  {
+    "DRUG NAME":"Levofloxacin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC=NC=C21"
+  },
+  {
+    "DRUG NAME":"Diclofenac sodium",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1N(C2=CC=CC=C2C(=O)O)C(=O)"
+  },
+  {
+    "DRUG NAME":"Flurbiprofen",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Mefenamic acid",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COc1ccc(cc1)NC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Phenytoin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)C2=NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Lamotrigine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"NC1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Pregabalin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)C(N)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Levetiracetam",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)N1C(=O)C(C)NC1=O"
+  },
+  {
+    "DRUG NAME":"Valacyclovir",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC(CCN)Nc1nc2[nH]c(=O)ncc2n1"
+  },
+  {
+    "DRUG NAME":"Oseltamivir phosphate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC(=O)C1CCC(CC1)NC(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Acyclovir",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"Nc1nc2n(COCCO)cnc2c(=O)[nH]1"
+  },
+  {
+    "DRUG NAME":"Valganciclovir",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"O=C2N=C(N)Nc1n(COC(CO)CO)cc12"
+  },
+  {
+    "DRUG NAME":"Prednisolone",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)C2C(C1)=CC(C)(O)CC2"
+  },
+  {
+    "DRUG NAME":"Budesonide",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1(C)CCC2C1CCC3=CC(=O)C=C4OC(C)(C)C(O)CC34C"
+  },
+  {
+    "DRUG NAME":"Fluticasone propionate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC(=O)C1(O)CC2"
+  },
+  {
+    "DRUG NAME":"Salbutamol sulphate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(cc1)O"
+  },
+  {
+    "DRUG NAME":"Terbutaline",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(O)cc1"
+  },
+  {
+    "DRUG NAME":"Dapagliflozin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COc1ccc(cc1)C2CC(C(=O)O2)CCC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Empagliflozin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COc1ccc(cc1)C2OC(C)C(O)C(O)O2"
+  },
+  {
+    "DRUG NAME":"Pioglitazone",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC=C(C=C1)N2C(=O)C(C3=CC=CC=C3)=C(O)N2"
+  },
+  {
+    "DRUG NAME":"Glibenclamide",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(C2=CC=CC=C2S(=O)2)C1=O"
+  },
+  {
+    "DRUG NAME":"Gliclazide (repeat check: still compatible)",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(C2=CC=CC=C2S(=O)2)C1=O"
+  },
+  {
+    "DRUG NAME":"Loratadine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCC(CC1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Cetirizine",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"COC(=O)N1CCC(CC1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Diphenhydramine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CN(C)CCOC1=CC=CC=C1OC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Pseudoephedrine HCl",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C6H5"
+  },
+  {
+    "DRUG NAME":"Dextroamphetamine sulfate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(N)CC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Ciprofloxacin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC=NC=C21"
+  },
+  {
+    "DRUG NAME":"Norfloxacin",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=NC2=CC=CC=C2N(C1=O)"
+  },
+  {
+    "DRUG NAME":"Metronidazole",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CN=CN1C2=NO2"
+  },
+  {
+    "DRUG NAME":"Chloramphenicol",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)(O)C(O)C1=CC(Cl)=C(Cl)C=C1"
+  },
+  {
+    "DRUG NAME":"Clindamycin phosphate",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC(C)C(CO)NC=O"
+  },
+  {
+    "DRUG NAME":"Linezolid",
+    "EXCIPIENT NAME":"Mannitol",
+    "SMILE CODE (drug)":"CC1=CC(NCCO)=NO1"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=C(C2=C(N1C(=O)C3=CC=CC=C3)C=CC(=C2)OC)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Piroxicam",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)N2C1=NC(=O)C=C2SC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Flurbiprofen",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Paracetamol (Acetaminophen)",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Lamotrigine",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"NC1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Phenytoin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)C2=NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CN(C)C(=N)NC(=N)N"
+  },
+  {
+    "DRUG NAME":"Gliclazide",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(C2=CC=CC=C2S(=O)2)C1=O"
+  },
+  {
+    "DRUG NAME":"Griseofulvin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1C2=COC3=CC=CC=C23"
+  },
+  {
+    "DRUG NAME":"Meloxicam",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)S(=O)(=O)NC2=NN(C)=C(C2=O)NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Celecoxib",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"NS(=O)(=O)c1ccc(cc1)C(F)(F)F"
+  },
+  {
+    "DRUG NAME":"Omeprazole",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)NC(=O)N2C=NC=NC2=O"
+  },
+  {
+    "DRUG NAME":"Lansoprazole",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CCOC(=O)N1C2=CC=CC=C2SC1=NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Pantoprazole sodium",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)2NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Erythromycin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)C(C(=O)O)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Azithromycin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Tetracycline HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Cimetidine",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CN=CN=C(NC(C)C)NC(=S)NCC1=CN=CN1"
+  },
+  {
+    "DRUG NAME":"Ranitidine HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CN=C(N)N=C(N)NCCSC1=CC=C(C=C1)Cl"
+  },
+  {
+    "DRUG NAME":"Sulfamethoxazole",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=CC=C(NS(=O)(=O)C2=CC=CC=C2N)C=C1"
+  },
+  {
+    "DRUG NAME":"Trimethoprim",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CN(C)C(=O)C1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Captopril",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CSCC(N)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Enalapril Maleate",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C(=O)O)N(CC(=O)O)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Lisinopril",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"NC(CC(C(=O)O)N)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Losartan potassium",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(C1)CC2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Telmisartan",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=NC(=O)C(C2=CC=CC=C2)(C3=CC=CC=C3)C(=O)N1"
+  },
+  {
+    "DRUG NAME":"Amlodipine",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CCOC(CN1CCCCC1)COC2=CC=C(C=C2)OC(=O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Verapamil HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(CCN)C(C)C"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Fluoxetine HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"FC(F)(F)c1ccc(cc1)OC(CCNC)c2ccccc2.[Cl-].[H+]"
+  },
+  {
+    "DRUG NAME":"Sertraline",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"Clc1ccc(cc1Cl)C2(CCN(CC2)C3=CC=C(O)C=C3)"
+  },
+  {
+    "DRUG NAME":"Paroxetine",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC1=CC(=CC=C1OC2C(CC(CO)O)O2)C3=NC4=CC=CC=C4N3"
+  },
+  {
+    "DRUG NAME":"Duloxetine HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)CCN(C)C2=CC=CC=C2.[Cl-].[H+]"
+  },
+  {
+    "DRUG NAME":"Bupropion HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=CC(=NO1)C2=CC=CC=C2C(=O)N(C)C"
+  },
+  {
+    "DRUG NAME":"Citalopram HBr",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CN(C)CCC1=CC=CC=C1OC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Escitalopram Oxalate",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CN(C)CCC1=CC=CC=C1OC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Rivastigmine",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC(C)NCC1=CC=CC=C1OC(C)C"
+  },
+  {
+    "DRUG NAME":"Donepezil HCl",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)CCN(CC2=CC=CC=C2)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Gabapentin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"C1CC(NC(=O)O)CN1"
+  },
+  {
+    "DRUG NAME":"Lamivudine",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"C1COC(CO)N1C=NN"
+  },
+  {
+    "DRUG NAME":"Zidovudine (AZT)",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1OC(O)C(NC(=O)N)c1N"
+  },
+  {
+    "DRUG NAME":"Valacyclovir",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"COC(CCN)Nc1nc2[nH]c(=O)ncc2n1"
+  },
+  {
+    "DRUG NAME":"Oseltamivir phosphate",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CCOC(=O)C1CCC(CC1)NC(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Levofloxacin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC=NC=C21"
+  },
+  {
+    "DRUG NAME":"Ciprofloxacin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC=NC=C21"
+  },
+  {
+    "DRUG NAME":"Nor\ufb02oxacin",
+    "EXCIPIENT NAME":"Sorbitol",
+    "SMILE CODE (drug)":"FC1=CC2=CC=CC=C2N(C1=O)"
+  },
+  {
+    "DRUG NAME":"Aspirin (Acetylsalicylic acid)",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(=O)Oc1ccccc1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Diclofenac sodium",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1N(C2=CC=CC=C2C(=O)O)C(=O)"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=C(C2=C(N1C(=O)C3=CC=CC=C3)C=CC(=C2)OC)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Piroxicam",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=CC(=O)N2C1=NC(=O)C=C2SC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Meloxicam",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)S(=O)(=O)NC2=NN(C)=C(C2=O)NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CN(C)C(=N)NC(=N)N"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CCOC(CN1CCCCC1)COC2=CC=C(C=C2)OC(=O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Ranitidine HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CN=C(N)N=C(N)NCCSC1=CC=C(C=C1)Cl"
+  },
+  {
+    "DRUG NAME":"Cimetidine",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CN=CN=C(NC(C)C)NC(=S)NCC1=CN=CN1"
+  },
+  {
+    "DRUG NAME":"Pantoprazole sodium",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)2NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Omeprazole",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)NC(=O)N2C=NC=NC2=O"
+  },
+  {
+    "DRUG NAME":"Lansoprazole",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CCOC(=O)N1C2=CC=CC=C2SC1=NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Chloramphenicol",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)(O)C(O)C1=CC(Cl)=C(Cl)C=C1"
+  },
+  {
+    "DRUG NAME":"Tetracycline HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Erythromycin",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)C(C(=O)O)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Azithromycin",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)N(C)C1OC(CO)C(C)O1"
+  },
+  {
+    "DRUG NAME":"Acetaminophen (Paracetamol)",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Caffeine",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"Cn1cnc2c1c(=O)n(C)c(=O)n2"
+  },
+  {
+    "DRUG NAME":"Theophylline",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"Cn1c(=O)n(C)c2ccc(OC)cc21"
+  },
+  {
+    "DRUG NAME":"Acyclovir",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"Nc1nc2n(COCCO)cnc2c(=O)[nH]1"
+  },
+  {
+    "DRUG NAME":"Valacyclovir",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC(CCN)Nc1nc2[nH]c(=O)ncc2n1"
+  },
+  {
+    "DRUG NAME":"Diltiazem HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC(=O)OC1=CC=CC=C1C2=CCN(CC2)CCN3CCCCC3"
+  },
+  {
+    "DRUG NAME":"Verapamil HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(CCN)C(C)C"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Metoprolol tartrate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Bisoprolol fumarate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(cc1)O"
+  },
+  {
+    "DRUG NAME":"Sertraline",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"Clc1ccc(cc1Cl)C2(CCN(CC2)C3=CC=C(O)C=C3)"
+  },
+  {
+    "DRUG NAME":"Risperidone",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=NC2=CC=CC=C2N(C1=O)CC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Olanzapine",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=CC=NC2=CC=CC=C2C1"
+  },
+  {
+    "DRUG NAME":"Quetiapine Fumarate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1(CCN(CC1)C2=NC3=CC=CC=C3N2)O"
+  },
+  {
+    "DRUG NAME":"Bupropion HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=CC(=NO1)C2=CC=CC=C2C(=O)N(C)C"
+  },
+  {
+    "DRUG NAME":"Citalopram",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CN(C)CCC1=CC=CC=C1OC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Escitalopram Oxalate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1CN(CCO1)C(C2=CC=CC=C2)C3=CC=CC=C3C(F)(F)F.O=C(O)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Doxycycline hyclate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Minocycline HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)N(C1=O)C)O"
+  },
+  {
+    "DRUG NAME":"Cefalexin",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(N)C(=O)N1C(=O)C2=C(C=C(C=C2)O)S1(=O)=O"
+  },
+  {
+    "DRUG NAME":"Cefuroxime axetil",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC(=O)COC1=NC2=CC=CC=C2C(=O)N1C(=O)"
+  },
+  {
+    "DRUG NAME":"Amoxicillin trihydrate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1(C(=O)N2C1=O)N(C(=O)CO)C2CC3=CN=CN3"
+  },
+  {
+    "DRUG NAME":"Clavulanic acid",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1OC(=O)N(C1=O)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Loratadine",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCC(CC1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Cetirizine",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC(=O)N1CCC(CC1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Pseudoephedrine HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C6H5"
+  },
+  {
+    "DRUG NAME":"Diphenhydramine HCl",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CN(C)CCOC1=CC=CC=C1OC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Chlorpheniramine maleate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CN(C)CCC1=CC=CC=C1Cl"
+  },
+  {
+    "DRUG NAME":"Benzoic acid",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Salicylic acid",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Folic acid",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1=NC2=CC=CC=C2N=C1N"
+  },
+  {
+    "DRUG NAME":"Riboflavin",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C1=NC2=CC=CC=C2N=C1N"
+  },
+  {
+    "DRUG NAME":"Thiamine (Vit B1)",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=C(N=C(S1)C=O)NCCCO"
+  },
+  {
+    "DRUG NAME":"Pyridoxine (Vit B6)",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"OCC1=CC(CO)=CC(O)=C1N"
+  },
+  {
+    "DRUG NAME":"Cyanocobalamin (Vit B12)",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=NC2=C(N1)C(=C(N=C2N)N)C3=NC4=C(N3)C(=C(N=C4N)N)C5=NC6=C(N5)C(=C(N=C6N)N)C7=NC8=C(N7)C(=C(N=C8N)N)C9=NC(=O)N(C9)C.CN[Co]123456789"
+  },
+  {
+    "DRUG NAME":"Ascorbic acid (Vitamin C)",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"C(C(C(=O)O)O)(O)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Aciclovir sodium (different salt)",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"Nc1nc2n(COCCO)cnc2c(=O)[nH]1"
+  },
+  {
+    "DRUG NAME":"Valganciclovir",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCC(O)COC(=O)NCCCO"
+  },
+  {
+    "DRUG NAME":"Hydrochlorothiazide",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"Clc1cccc(c1S(=O)(=O)NC(=O)N)S(=O)(=O)N"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC(Cl)=C(Cl)C=C12"
+  },
+  {
+    "DRUG NAME":"Spironolactone",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1(C)CCC2=CC(=O)OC(=O)OC2"
+  },
+  {
+    "DRUG NAME":"Eplerenone",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"steroid structure"
+  },
+  {
+    "DRUG NAME":"Glibenclamide",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(C2=CC=CC=C2S(=O)2)C1=O"
+  },
+  {
+    "DRUG NAME":"Gliclazide",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=CC(=O)N(C2=CC=CC=C2S(=O)2)C1=O"
+  },
+  {
+    "DRUG NAME":"Sucralfate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"O=C(O)COC(O)COC(O)COC(O)CO.O=S(=O)(O)O.[Al+3]"
+  },
+  {
+    "DRUG NAME":"Sucralose",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"OC(CO)C(O)C(O)C(O)COC(CCl)(Cl)Cl"
+  },
+  {
+    "DRUG NAME":"Acetylcysteine",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC(=O)NCCS"
+  },
+  {
+    "DRUG NAME":"Metronidazole benzoate",
+    "EXCIPIENT NAME":"DCP",
+    "SMILE CODE (drug)":"CC1=CN=CN1C2=NO2"
+  },
+  {
+    "DRUG NAME":"Aspirin (Acetylsalicylic acid)",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(=O)Oc1ccccc1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Paracetamol (Acetaminophen)",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC1=C(C2=C(N1C(=O)C3=CC=CC=C3)C=CC(=C2)OC)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Diclofenac sodium",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1N(C2=CC=CC=C2C(=O)O)C(=O)"
+  },
+  {
+    "DRUG NAME":"Meloxicam",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)S(=O)(=O)NC2=NN(C)=C(C2=O)NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Piroxicam",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC1=CC(=O)N2C1=NC(=O)C=C2SC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Omeprazole",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)NC(=O)N2C=NC=NC2=O"
+  },
+  {
+    "DRUG NAME":"Pantoprazole sodium",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1S(=O)2NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Lansoprazole",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CCOC(=O)N1C2=CC=CC=C2SC1=NC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Ranitidine HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CN=C(N)N=C(N)NCCSC1=CC=C(C=C1)Cl"
+  },
+  {
+    "DRUG NAME":"Cimetidine",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CN=CN=C(NC(C)C)NC(=S)NCC1=CN=CN1"
+  },
+  {
+    "DRUG NAME":"Doxycycline",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"C1C(C(=O)N)C2=C(C=C(C=C2)O)N(C1=O)C"
+  },
+  {
+    "DRUG NAME":"Tetracycline",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"same as above"
+  },
+  {
+    "DRUG NAME":"Amoxicillin",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC1(C(=O)N2C1=O)N(C(=O)CO)C2CC3=CN=CN3"
+  },
+  {
+    "DRUG NAME":"Clavulanic acid",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC1OC(=O)N(C1=O)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CN(C)C(=N)NC(=N)N"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CCOC(CN1CCCCC1)COC2=CC=CC=C2OC(=O)C3=NC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Diltiazem HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"COC(=O)OC1=CC=CC=C1C2=CCN(CC2)CCN3CCCCC3"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Lamotrigine",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"NC1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Zidovudine",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC1OC(O)C(NC(=O)N)c1N"
+  },
+  {
+    "DRUG NAME":"Phenobarbital",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)C1=NC(=O)NC(=O)C1"
+  },
+  {
+    "DRUG NAME":"Pentobarbital",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CCC(C)C1=NC(=O)NC(=O)C1"
+  },
+  {
+    "DRUG NAME":"Phenytoin",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)C2=NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Valproic acid",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CCCCCCC(=O)O"
+  },
+  {
+    "DRUG NAME":"Mefenamic acid",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"COc1ccc(cc1)NC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Flurbiprofen",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)Cc1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Caffeine",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"Cn1cnc2c1c(=O)n(C)c(=O)n2"
+  },
+  {
+    "DRUG NAME":"Acyclovir sodium",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"Nc1nc2n(COCCO)cnc2c(=O)[nH]1"
+  },
+  {
+    "DRUG NAME":"Valganciclovir",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)C(N)C(=O)OCOC1=NC=NC2=C1N=CN2COCC(O)CO"
+  },
+  {
+    "DRUG NAME":"Hydroxyzine HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(cc1)N2CCCCC2"
+  },
+  {
+    "DRUG NAME":"Diphenhydramine HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CN(C)CCOC1=CC=CC=C1OC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Pseudoephedrine HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C6H5"
+  },
+  {
+    "DRUG NAME":"Chlorpheniramine maleate",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CN(C)CCC1=CC=CC=C1Cl"
+  },
+  {
+    "DRUG NAME":"Sucralose",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"C(C(C(C(C(CO)O)O)Cl)Cl)OCl"
+  },
+  {
+    "DRUG NAME":"Sucralfate",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"O=C(O)C(O)(O)CO.O=S(=O)(O)O.[Al+3]"
+  },
+  {
+    "DRUG NAME":"Riboflavin (Vit B2)",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC1=NC2=C(N1)C(=O)N(C(=O)N2)C3OC(C(C(C3O)O)O)CO"
+  },
+  {
+    "DRUG NAME":"Pyridoxine (Vit B6)",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"OCC1=CC(CO)=CC(O)=C1N"
+  },
+  {
+    "DRUG NAME":"Thiamine (Vit B1)",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC1=C(N=C(S1)C=O)NCCCO"
+  },
+  {
+    "DRUG NAME":"Ascorbic acid (Vit C)",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"C(C(C(=O)O)O)(O)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Methyldopa",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C6H5"
+  },
+  {
+    "DRUG NAME":"Clonidine HCl",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"Clc1ccc(cc1Cl)N=C(N)N"
+  },
+  {
+    "DRUG NAME":"Atenolol",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)NCC(CO)NC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Metoprolol tartrate",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Bisoprolol fumarate",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(cc1)O"
+  },
+  {
+    "DRUG NAME":"Topiramate",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)(C)N1C(=O)OC(C)(C)C1=O"
+  },
+  {
+    "DRUG NAME":"Pregabalin",
+    "EXCIPIENT NAME":"Sodium bicarbonate",
+    "SMILE CODE (drug)":"CC(C)C(N)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Ampicillin",
+    "EXCIPIENT NAME":"Lactose (monohydrate)",
+    "SMILE CODE (drug)":"CC1(C(N2C(C(C2=O)NC(C3=CC=CC=C3)C(=O)O)SC1)C(=O)O)N"
+  },
+  {
+    "DRUG NAME":"Etamsylate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CCN(CC)CCOc1ccc(cc1)S(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Fluconazole",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"OC(CN1N=CN=C1)(CN2N=CN=C2)c3ccc(F)cc3c4ccc(F)cc4"
+  },
+  {
+    "DRUG NAME":"Acyclovir",
+    "EXCIPIENT NAME":"Lactose (anhydrous & monohydrate)",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCCO"
+  },
+  {
+    "DRUG NAME":"Ganciclovir",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCC(O)CO"
+  },
+  {
+    "DRUG NAME":"Fluoxetine HCl",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CNCCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2.Cl"
+  },
+  {
+    "DRUG NAME":"Amoxicillin",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1(C(NC2=NC...)"
+  },
+  {
+    "DRUG NAME":"Atenolol",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(cc1)NC(=O)N"
+  },
+  {
+    "DRUG NAME":"Metoprolol tartrate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(cc1)OC.CC(O)(C(O)=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Ampicillin",
+    "EXCIPIENT NAME":"Lactose (solid, mainly monohydrate)",
+    "SMILE CODE (drug)":"CC1(C(N2C(C(C2=O)NC(C3=CC=CC=C3)C(=O)O)SC1)C(=O)O)N"
+  },
+  {
+    "DRUG NAME":"Etamsylate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CCN(CC)CCOc1ccc(cc1)S(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Fluconazole",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"C1=CN=CN1C(CO)(CO)C(c2ccc(F)cc2)(c3ccc(F)cc3)n4ccnc4"
+  },
+  {
+    "DRUG NAME":"Acyclovir",
+    "EXCIPIENT NAME":"Lactose (anhydrous & monohydrate)",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCCO"
+  },
+  {
+    "DRUG NAME":"Ganciclovir",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCC(O)CO"
+  },
+  {
+    "DRUG NAME":"Fluoxetine hydrochloride",
+    "EXCIPIENT NAME":"Lactose (capsule\/tablet diluent)",
+    "SMILE CODE (drug)":"CNCCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2"
+  },
+  {
+    "DRUG NAME":"Amoxicillin",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1(C(NC2=NC=NC(=N2)N)=O)C(=O)N(C1=O)CO"
+  },
+  {
+    "DRUG NAME":"Atenolol",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)NCC(CO)NC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Metoprolol tartrate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1cccc2ccccc12"
+  },
+  {
+    "DRUG NAME":"Ranitidine HCl",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CN=C(N)N=C(N)NCCSC1=CC=C(C=C1)Cl"
+  },
+  {
+    "DRUG NAME":"Cimetidine",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CN=CN=C(NC(C)C)NC(=S)NCC1=CN=CN1"
+  },
+  {
+    "DRUG NAME":"Diphenhydramine HCl",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CN(C)CCOC1=CC=CC=C1OC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Pseudoephedrine HCl",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C6H5"
+  },
+  {
+    "DRUG NAME":"Terbutaline sulfate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)(C)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Salbutamol (Albuterol)",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COc1ccc(O)cc1"
+  },
+  {
+    "DRUG NAME":"Budesonide",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1CCC2C(C1)CCC3=CC(=O)C=CC23C(C)(C)OC(=O)CO"
+  },
+  {
+    "DRUG NAME":"Formoterol fumarate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1CC(CNCC(C2=CC=C(O)C=C2)O)N.O=C(O)C=CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Ciprofloxacin",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC=NC=C21"
+  },
+  {
+    "DRUG NAME":"Levofloxacin",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1OC2=NC(C3=CC(F)=C(O)C(N)=C3)=C(C(=O)O)N2C1N"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)N(C2=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Lamotrigine",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"NC1=NC2=CC=CC=C2N1"
+  },
+  {
+    "DRUG NAME":"Gabapentin",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"C1CC(NC(=O)O)CN1"
+  },
+  {
+    "DRUG NAME":"Topiramate",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC(C)(C)N1C(=O)OC(C)(C)C1=O"
+  },
+  {
+    "DRUG NAME":"Zidovudine (AZT)",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1OC(O)C(NC(=O)N)c1N"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"CC1=C(C2=C(N1C(=O)C3=CC=CC=C3)C=CC(=C2)OC)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Celecoxib",
+    "EXCIPIENT NAME":"Lactose",
+    "SMILE CODE (drug)":"NS(=O)(=O)c1ccc(cc1)C(F)(F)F"
+  },
+  {
+    "DRUG NAME":"Paracetamol",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC(C)CC1=CC=C(C=C1)C(C)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC(C)C1=CC=C(C=C1)C(C2=CC=CC=C2)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Indomethacin",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)C(C2=CC=CC=C2Cl)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Acyclovir",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"COC1=NC=NC2=C1N=CN2COCCO"
+  },
+  {
+    "DRUG NAME":"Metronidazole",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC1=NC=NO1CCO[N+](=O)[O-]"
+  },
+  {
+    "DRUG NAME":"Ciprofloxacin",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC1=CN(C2=CC=C(C=C2N1)F)C(=O)C3=CC(=O)N(CC3)C4=CC=CC=C4"
+  },
+  {
+    "DRUG NAME":"Levofloxacin",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"OC[COOH]1C(=O)N2C=NC1=CC=C2"
+  },
+  {
+    "DRUG NAME":"Atenolol",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC(C)NCC(CO)NC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Carbamazepine",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"NC(=O)N1C2=CC=CC=C2C=CC2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Lamotrigine",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"ClC1=NC(Cl)=NC(NC2=NC=NC(Cl)=N2)=N1"
+  },
+  {
+    "DRUG NAME":"Gabapentin",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"C1CC(NC(=O)O)CN1"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"N=C(N)NCCNC(N)=N"
+  },
+  {
+    "DRUG NAME":"Glibenclamide",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)C(=O)NC2=NC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Gliclazide",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(CC)S1"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"NS(=O)(=O)c1ccc(cc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Hydrochlorothiazide",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"NS(=O)(=O)c1ccc2nc(S)nc(O)c2c1"
+  },
+  {
+    "DRUG NAME":"Acetylsalicylic acid (Aspirin)",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC(=O)OC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Tramadol HCl",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CCOC1=CC=CC=C1N(CC2)C(C2)O"
+  },
+  {
+    "DRUG NAME":"Diclofenac sodium",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1N(C2=CC=CC=C2C(=O)O)C(=O)"
+  },
+  {
+    "DRUG NAME":"Aceclofenac",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1N(CC2=CC=CC=C2)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Meloxicam",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)NC(=O)N2"
+  },
+  {
+    "DRUG NAME":"Piroxicam",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(C)S1(=O)=O"
+  },
+  {
+    "DRUG NAME":"Ketorolac tromethamine",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC(C)(CO)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Losartan potassium",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(CC2=CC=CC=C2)N1"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC(C)C(NC(=O)C1=CC=CC=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Enalapril maleate",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"CCOC(=O)C(CC1=CC=CC=C1)NC"
+  },
+  {
+    "DRUG NAME":"Lisinopril",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"NCCCC(NC(=O)C1=CC=CC=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(C2=CC=CC=C2Cl)C(=O)OCC"
+  },
+  {
+    "DRUG NAME":"Nifedipine",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Glipizide",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(CC)S1"
+  },
+  {
+    "DRUG NAME":"Pioglitazone HCl",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CCOC1=NC(=O)N(CC)S1"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"N=C(N)NCCNC(N)=N"
+  },
+  {
+    "DRUG NAME":"Levothyroxine sodium",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"hormone (large)"
+  },
+  {
+    "DRUG NAME":"Theophylline",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)N(C)C(=O)N2"
+  },
+  {
+    "DRUG NAME":"Caffeine",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)N(C)C(=O)N2"
+  },
+  {
+    "DRUG NAME":"Paroxetine HCl",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CNCCC(Oc1ccc(cc1)F)c2ccccc2"
+  },
+  {
+    "DRUG NAME":"Sertraline HCl",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CNCCC(c1ccc(Cl)cc1)c2ccccc2"
+  },
+  {
+    "DRUG NAME":"Fluoxetine HCl",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CNCCC(Oc1ccc(cc1)C(F)(F)F)c2ccccc2"
+  },
+  {
+    "DRUG NAME":"Escitalopram oxalate",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"CNCCC(c1ccc(C#N)cc1)c2ccccc2"
+  },
+  {
+    "DRUG NAME":"Venlafaxine HCl",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCC(CN(C)C)C"
+  },
+  {
+    "DRUG NAME":"Bupropion HCl",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC(C)(C)NCC(c1ccccc1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Diazepam",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"ClC1=CC=CC=C1C2=NC3=CC=CC=C3N2"
+  },
+  {
+    "DRUG NAME":"Lorazepam",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"ClC1=CC=CC=C1C2=NC3=CC=CC=C3N2C(=O)O"
+  },
+  {
+    "DRUG NAME":"Alprazolam",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"ClC1=CC=CC=C1C2=NC(CN3CCCNC3)=N2"
+  },
+  {
+    "DRUG NAME":"Clonazepam",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"ClC1=CC=CC=C1C2=NC3=CC=CC=C3N2C(=O)O"
+  },
+  {
+    "DRUG NAME":"Phenobarbital",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC1=NC(=O)NC(=O)N1"
+  },
+  {
+    "DRUG NAME":"Phenytoin",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC1(C2=CC=CC=C2)NC(=O)NC1=O"
+  },
+  {
+    "DRUG NAME":"Valproic acid",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CCCCCCC(=O)O"
+  },
+  {
+    "DRUG NAME":"Levetiracetam",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"CCOC(=O)C1=CN=CC=N1"
+  },
+  {
+    "DRUG NAME":"Oxcarbazepine",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"C1=CC=CC=C1C2=NC(=O)NC2=O"
+  },
+  {
+    "DRUG NAME":"Pantoprazole sodium",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"COC1=CC=C(S(=O)=O)C=C1"
+  },
+  {
+    "DRUG NAME":"Rabeprazole sodium",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"COC1=C(N=CN1C2=CC=CC=C2OC)S(=O)[O-].[Na+]"
+  },
+  {
+    "DRUG NAME":"Famotidine",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"NC(=NC1=NC=CN1)NS(=O)=O"
+  },
+  {
+    "DRUG NAME":"Domperidone",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"ClC1=CC=C(C=C1)C2=NC(=O)N(CCCN3CCC3)N2"
+  },
+  {
+    "DRUG NAME":"Ondansetron HCl",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)N(C)C(=O)N2"
+  },
+  {
+    "DRUG NAME":"Clarithromycin",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"CC1OC(C(C(O1)OC)OC2C(C(C(O2)OC)O)N(C)C)OC3=CC(=O)OC4C(C(C(C(O4)OC)O)OC)C"
+  },
+  {
+    "DRUG NAME":"Azithromycin",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC1OC(C(C(O1)OC)OC2C(C(C(O2)OC)O)N(C)C)OC3CCC(C(C(C(O3)OC)O)OC)N"
+  },
+  {
+    "DRUG NAME":"Cefixime",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"CC1=NN=C(S1)NCC2=C(C=CC=C2)C(O)=ONC(CS)C(=O)N3C(CSC3=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Cefuroxime axetil",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CCOC(=O)OCOC(=O)C1=NC(CS)C(=O)N2C1SC(C2=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Ceftriaxone",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC1=NN=C(S1)NCC2=NC(CS)C(=O)N3C2SC(C3=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Amikacin sulfate",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC1C(C(C(C(O1)NCCNC(C)N)O)O)OC2(C(C(C(O2)CO)O)N)CO.OS(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Gentamicin sulfate",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"C1C(C(C(C(O1)N)O)O)OC2(C(C(C(O2)CO)N)O)CO.OS(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Doxycycline hyclate",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC1=C(C(=O)C2=C(C1=O)C(O)=C(C(=O)C3=C2C=C(C=C3O)O)N)O.Cl"
+  },
+  {
+    "DRUG NAME":"Minocycline HCl",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC1=C(C(=O)C2=C(C1=O)C(O)=C(C(=O)C3=C2C=CC(=C3)N(C)C)N)O.Cl"
+  },
+  {
+    "DRUG NAME":"Allopurinol",
+    "EXCIPIENT NAME":"Maize starch",
+    "SMILE CODE (drug)":"NC1=NC=NC2=C1C=CC=C2"
+  },
+  {
+    "DRUG NAME":"Colchicine",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"COC1=CC2=C(C(=C1OC)OC)C(=O)NC3=CC=CC=C23"
+  },
+  {
+    "DRUG NAME":"Sulfasalazine",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"NC1=CC=C(C=C1)N=NC2=CC=C(C=C2)S(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Mesalamine (5-ASA)",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"NC1=CC=C(O)C=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Prednisolone",
+    "EXCIPIENT NAME":"Pregelatinized starch",
+    "SMILE CODE (drug)":"CC12CCC3C(C1CCC2O)CCC4=CC(=O)C=CC34O"
+  },
+  {
+    "DRUG NAME":"Dexamethasone",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC1(C)CCC2C(C1CCC3=CC(=O)C=CC23F)O"
+  },
+  {
+    "DRUG NAME":"Hydrocortisone",
+    "EXCIPIENT NAME":"Corn starch",
+    "SMILE CODE (drug)":"CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34O"
+  },
+  {
+    "DRUG NAME":"Warfarin sodium",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC(C)(C=CC1=CC=CC=C1)C(O)[O-].[Na+]"
+  },
+  {
+    "DRUG NAME":"Digoxin",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC1OC(C(C(C(O1)OC2C(C(C(C(O2)OC3C(C(C(C(O3)O)O)O)O)O)O)O)O)O)O)O"
+  },
+  {
+    "DRUG NAME":"Clopidogrel bisulfate",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1C(CN2CCSC2=O)Cl.OS(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Atorvastatin calcium",
+    "EXCIPIENT NAME":"Starch",
+    "SMILE CODE (drug)":"CC(C)C1=NC(C(C(C(O)=O)O)=O)C(C2=CC=CC=C2F)NC1=O.[Ca+2]"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Bisoprolol fumarate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Carvedilol",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)(O)NCC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Diltiazem HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)CCOC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Verapamil HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)C(C)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Losartan potassium",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(CC2=CC=CC=C2)N1"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)C(NC(=O)C1=CC=CC=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Risperidone",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)CC1=CC=CC=C1C2=NC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Olanzapine",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)C1=CC=NC2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Quetiapine fumarate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Linezolid",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(C1=O)C2=CC=CC=C2O"
+  },
+  {
+    "DRUG NAME":"Cefpodoxime proxetil",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCOC(=O)COC(=O)C1=NC(CS)C(=O)N2C1SC(C2=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Cefixime",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1=NN=C(S1)NCC2=C(C=CC=C2)C(O)=ONC(CS)C(=O)N3C(CSC3=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Azithromycin",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1OC(C(C(O1)OC)OC2C(C(C(O2)OC)O)N(C)C)OC3CCC(C(C(C(O3)OC)O)OC)N"
+  },
+  {
+    "DRUG NAME":"Ketoconazole",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"ClC1=CC=C(C=C1)C(CN2CCNCC2)O"
+  },
+  {
+    "DRUG NAME":"Itraconazole",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCCCCn1cnc2n(cnc12)C3(OCCOC)CC(C4=CC=CC=C4Cl)OC3C5=CC=CC=C5Cl"
+  },
+  {
+    "DRUG NAME":"Atorvastatin calcium",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)C1=NC(C(C(O)=O)O)C(C2=CC=CC=C2F)NC1=O.[Ca+2]"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"N=C(N)NCCNC(N)=N"
+  },
+  {
+    "DRUG NAME":"Sildenafil citrate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Tadalafil",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"O=C1N(CC2=NC=NC3=C2C=CC=C3)C[COOH]4N(CC5=CC=CC=C5)C(=O)O4"
+  },
+  {
+    "DRUG NAME":"Nebivolol HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(C)CC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Nifedipine",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"COC(=O)C1=C(NC(=O)OC)N(C)C(=O)N1"
+  },
+  {
+    "DRUG NAME":"Dabigatran etexilate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCOC(=O)OCCOC(=O)NCCCN(C)C(=O)C1=NC2=CC=CC=C2N1C(=O)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Warfarin sodium",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(=O)C1=CC=CC=C1O"
+  },
+  {
+    "DRUG NAME":"Digoxin",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1OC(C(C(C(O1)OC2C(C(C(C(O2)OC3C(C(C(C(O3)O)O)O)O)O)O)O)O)O)O)O"
+  },
+  {
+    "DRUG NAME":"Donepezil HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN2CCCC2"
+  },
+  {
+    "DRUG NAME":"Memantine HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC12CC3CC(CC(C3)C1)N2"
+  },
+  {
+    "DRUG NAME":"Rivastigmine tartrate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)N(C)COC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Levodopa",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"NC(CC1=CC=C(O)C=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Pramipexole diHCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"NCC1=NC=NC2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Selegiline HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"C#CCN(C)CC(C)C1=CC=CC=C1.Cl"
+  },
+  {
+    "DRUG NAME":"Domperidone",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"ClC1=CC=C(C=C1)C2=NC(=O)N(CCCN3CCC3)N2"
+  },
+  {
+    "DRUG NAME":"Itopride HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCOC1=CC=C(C=C1)C(=O)NCCN"
+  },
+  {
+    "DRUG NAME":"Mosapride citrate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)N(CCCN2CCC(CC2)OC)C(=O)C3=CC=CC=C3.O=C(O)C(O)(CC(=O)O)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Ursodeoxycholic acid",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CC2C1O"
+  },
+  {
+    "DRUG NAME":"Finasteride",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34"
+  },
+  {
+    "DRUG NAME":"Dutasteride",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)(C)C1CCC2C3CCC4=CC(=O)OC(C)(C)C4(C)C3CCC12C"
+  },
+  {
+    "DRUG NAME":"Megestrol acetate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(=O)OC1=CC2CCC3C(C2(CC1)C)CCC4=CC(=O)CCC34C"
+  },
+  {
+    "DRUG NAME":"Medroxyprogesterone acetate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(=O)OC1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(C)CC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Losartan potassium",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(CC2=CC=CC=C2)N1"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)C(NC(=O)C1=CC=CC=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Nebivolol HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Bisoprolol fumarate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)NCC(O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Verapamil HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)C(C)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Diltiazem HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)CCOC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Risperidone",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)CC1=CC=CC=C1C2=NC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Olanzapine",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)C1=CC=NC2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Quetiapine fumarate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Aripiprazole",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CN(C)C1=CC=NC2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Linezolid",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1=NC(=O)N(C1=O)C2=CC=CC=C2O"
+  },
+  {
+    "DRUG NAME":"Cefpodoxime proxetil",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCOC(=O)COC(=O)C1=NC(CS)C(=O)N2C1SC(C2=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Cefixime",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1=NN=C(S1)NCC2=C(C=CC=C2)C(O)=ONC(CS)C(=O)N3C(CSC3=O)C(O)=O"
+  },
+  {
+    "DRUG NAME":"Azithromycin",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC1OC(C(C(O1)OC)OC2C(C(C(O2)OC)O)N(C)C)OC3CCC(C(C(C(O3)OC)O)OC)N"
+  },
+  {
+    "DRUG NAME":"Itraconazole",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCCCCn1cnc2n(cnc12)C3(OCCOC)CC(C4=CC=CC=C4Cl)OC3C5=CC=CC=C5Cl"
+  },
+  {
+    "DRUG NAME":"Sildenafil citrate",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CCN(CC)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Metformin HCl",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"N=C(N)NCCNC(N)=N"
+  },
+  {
+    "DRUG NAME":"Atorvastatin calcium",
+    "EXCIPIENT NAME":"MCC",
+    "SMILE CODE (drug)":"CC(C)C1=NC(C(C(O)=O)O)C(C2=CC=CC=C2F)NC1=O.[Ca+2]"
+  },
+  {
+    "DRUG NAME":"Itraconazole",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"Clc1ccc(cc1)C(c2ncnc(n2)OC)(Cn3cncn3)O"
+  },
+  {
+    "DRUG NAME":"Ritonavir",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)CNC(=O)C(C)(C)NC(=O)C(CC1=CC=CC=C1)NC(=O)OC(C)(C)C"
+  },
+  {
+    "DRUG NAME":"Lopinavir",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)CNC(=O)C(CC1=CC=CC=C1)NC(=O)C(C)(C)NC(=O)OC(C)(C)C"
+  },
+  {
+    "DRUG NAME":"Efavirenz",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)(C)NC(=O)C1=CC=NC=C1"
+  },
+  {
+    "DRUG NAME":"Sofosbuvir",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)OC(=O)OP(O)(=O)OC1OC(n2cnc3c(N)ncnc23)C(O)C(O)1"
+  },
+  {
+    "DRUG NAME":"Rivaroxaban",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"C1COC(=O)N1C2=CC=C(C=C2)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Apixaban",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"O=C(N(C1=CC=C(N(CCCC2)C2=O)C=C1)CC3)C4=C3C(C(N)=O)=NN4C5=CC=C(OC)C=C5"
+  },
+  {
+    "DRUG NAME":"Nifedipine",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"COC(=O)C1=C(NC(=O)OC)N(C)C(=O)N1"
+  },
+  {
+    "DRUG NAME":"Felodipine",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CCOC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Atazanavir sulfate",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)NC(=O)C(CC1=CC=CC=C1)NC(=O)N[C@H](CO)C(C)(C)NC(=O)OC2=CC=CC=C2.OS(=O)(=O)O"
+  },
+  {
+    "DRUG NAME":"Clozapine",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CN1CCN(CC1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Aripiprazole",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"O=C1N(CCc2ccc(Cl)cc2)C(c3ccc(OCCCCN4CCCCC4)cc3)=NC1"
+  },
+  {
+    "DRUG NAME":"Olanzapine",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CN(C)C1=CC=NC2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Tacrolimus",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC1OC(C(C(C(O1)C(C)C)OC)OC(=O)C(C)(C)OC)C(C)C2=CC(=O)OC3=CC=CC=C23"
+  },
+  {
+    "DRUG NAME":"Cyclosporine A",
+    "EXCIPIENT NAME":"PVP",
+    "SMILE CODE (drug)":"CC(C)C(NC(=O)C(C)NC(=O)C(CC)NC(=O)C(C)NC(=O)C(CC)NC(=O)C(C)NC(=O)C(CC)NC(=O)C(C)NC(=O)C(CC)NC(=O)C(C)NC(=O)C(CC)N)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Bicalutamide",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)(C)NC(=O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Nilutamide",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"O=[N+]([O-])NC(=O)NC1=CC=C(C=C1)C(F)(F)F"
+  },
+  {
+    "DRUG NAME":"Letrozole",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"N#CC(CN1N=CC=C1)(CN2N=CC=C2)C3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Voriconazole",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(F)(F)c1ncn(c1N)C[C@H](O)c2ncc(Cl)cc2F"
+  },
+  {
+    "DRUG NAME":"Posaconazole",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CCOC(=O)N1CCN(CC1)C(CO)(CO)c2ccc(Cl)cc2n3cnnc3C4CC4"
+  },
+  {
+    "DRUG NAME":"Ezetimibe",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)OC(=O)NCC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Fenofibrate",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CCOC(=O)C1=CC=C(C=C1)OC(C)(C)C"
+  },
+  {
+    "DRUG NAME":"Glimepiride",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)NC(=O)NS(=O)(=O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Glibenclamide",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)NC(=O)NS(=O)(=O)C1=CC=CC=C1Cl"
+  },
+  {
+    "DRUG NAME":"Repaglinide",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CCOC1=CC=CC=C1C(C)(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Pioglitazone HCl",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CCOC1=CC=C(C=C1)SCC2=NC=CN2"
+  },
+  {
+    "DRUG NAME":"Rosiglitazone",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CCOC1=CC=CC=C1SCC2=NC=CN2"
+  },
+  {
+    "DRUG NAME":"Domperidone",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"ClC1=CC=CC=C1N2CCN(CC2)C"
+  },
+  {
+    "DRUG NAME":"Lurasidone HCl",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"O=C1N(CCc2ccc(Cl)cc2)C(c3ccc(S(=O)(=O)N4CCN(CC4)C)cc3)=NC1.Cl"
+  },
+  {
+    "DRUG NAME":"Ziprasidone HCl",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"Cl.C1=NC2=CC=CC=C2S1CCN3CCN(CC3)C4=NC5=CC=CC=C5N4"
+  },
+  {
+    "DRUG NAME":"Quetiapine fumarate",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CCOCCN1CCN(CC1)C2=NC3=CC=CC=C3SC2.O=C(O)C=CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Risperidone",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC1=NC2=CC=CC=C2N1CCN3CCC(CC3)OCC4=CC=C(F)C=C4"
+  },
+  {
+    "DRUG NAME":"Paliperidone",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC1=NC2=CC=CC=C2N1CCN3CCC(CC3)OCC4=CC=C(F)C(O)=C4"
+  },
+  {
+    "DRUG NAME":"Donepezil HCl",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)C2=CN=CC=C2"
+  },
+  {
+    "DRUG NAME":"Memantine HCl",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC1(CC2CC3CC(C2)C3)N"
+  },
+  {
+    "DRUG NAME":"Tolterodine tartrate",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)(C)OC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Solifenacin succinate",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CC(C)(C)C1=CC=C(C=C1)C(O)CN2CCN(CC2)C3=CC=CC=C3.O=C(O)CCC(=O)O"
+  },
+  {
+    "DRUG NAME":"Tadalafil",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"CN1CCN(CC1)C2=NC3=CC=CC=C3N2"
+  },
+  {
+    "DRUG NAME":"Sildenafil citrate",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"O=S(=O)(N1CCN(CC1)C)c2ccc(NC(=O)N3CCN(CC3)C)cc2.O=C(O)C(O)(CC(=O)O)CC(=O)O"
+  },
+  {
+    "DRUG NAME":"Vardenafil HCl",
+    "EXCIPIENT NAME":"PVP K30",
+    "SMILE CODE (drug)":"COc1ccc(cc1)N2C(=O)N(CCN3CCN(CC3)C)C(=O)N(C)C2=O.Cl"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CCOC1=CC=CC=C1OCCN(CC)CC"
+  },
+  {
+    "DRUG NAME":"Losartan potassium",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CCCCC1=NC(=NO1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Valsartan",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CCCCC(C(=O)O)NC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Telmisartan",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC1=NC=C(N1)C2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Atorvastatin calcium",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(C)C1=NC(C(O)=O)=CC=C1"
+  },
+  {
+    "DRUG NAME":"Simvastatin",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(C)CC(O)C(=O)OC1CCC2CC3CC=C4CC(OC(=O)C(C)(C)C)C(O)C(C)C4C3CCC12C"
+  },
+  {
+    "DRUG NAME":"Clopidogrel bisulfate",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CCOC(=O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Prasugrel",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)C2OC(CC3=CC=CC=C3)SC2C(=O)O"
+  },
+  {
+    "DRUG NAME":"Omeprazole",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)OC2=NC3=CC=CC=C3S(=O)C2"
+  },
+  {
+    "DRUG NAME":"Pantoprazole sodium",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"COC1=CC=C(C=C1)OC2=NC3=CC=CC=C3S(=O)[O-]C2.[Na+]"
+  },
+  {
+    "DRUG NAME":"Levothyroxine sodium",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"N(CC1=CC(I)=C(O)C(I)=C1)C(O)=O.CCCCC.[Na+]"
+  },
+  {
+    "DRUG NAME":"Glimepiride",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC1=NC(NC(=O)NS(=O)(=O)C2=CC=CC=C2)NC(C3=CC=CC=C3)O1"
+  },
+  {
+    "DRUG NAME":"Gliclazide",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC1=NC(NC(=O)NS(=O)(=O)C2=CC=CC=C2)NC(C)O1"
+  },
+  {
+    "DRUG NAME":"Repaglinide",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(C)NCC(C1=CC=CC=C1)NC(=O)C2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Tolbutamide",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CCCCCNC(=O)NS(=O)(=O)C1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"O=S(=O)(NC1=CC=C(Cl)C=C1)C2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Spironolactone",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CC(=O)OC1CCC2C3CCC4=CC(=O)OC(C)(C)C4(C)C3CCC12C"
+  },
+  {
+    "DRUG NAME":"Clonazepam",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"O=C1NC(C2=CC=CC=C2Cl)=NC2=CC=CC=C12[N+](=O)[O-]"
+  },
+  {
+    "DRUG NAME":"Diazepam",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"CN1C(=O)CN=C(C2=CC=CC=C2)C2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Lorazepam",
+    "EXCIPIENT NAME":"Magnesium stearate",
+    "SMILE CODE (drug)":"O=C1NC(C2=CC=CC=C2Cl)=NC2=CC(Cl)=CC=C12O"
+  },
+  {
+    "DRUG NAME":"Paracetamol",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Ibuprofen",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(C)CC1=CC=C(C=C1)C(C)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Ketoprofen",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(C)C1=CC=C(C=C1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Naproxen",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(C)COC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Aspirin (Acetylsalicylic acid)",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(=O)OC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Caffeine",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)N(C(=O)N2)C"
+  },
+  {
+    "DRUG NAME":"Theophylline",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)NC(=O)N2"
+  },
+  {
+    "DRUG NAME":"Metronidazole",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1=NC=NO1"
+  },
+  {
+    "DRUG NAME":"Clotrimazole",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"C1=CC=C(C=C1)C(C)(C)C(C2=CC=CC=C2)N3CCCCC3"
+  },
+  {
+    "DRUG NAME":"Ketoconazole",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC(C)(C)OC1=CC=CC=C1OC(CN2CCN(CC2)C3=CC=CC=C3Cl)O"
+  },
+  {
+    "DRUG NAME":"Fluconazole",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"C1=CN=CN1C(CO)(CO)C(C2=CC=CC=C2F)(C3=CC=CC=C3F)"
+  },
+  {
+    "DRUG NAME":"Ciprofloxacin HCl",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1=CC(=O)NC2=CC=NC=C21"
+  },
+  {
+    "DRUG NAME":"Levofloxacin",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1OC2=NC3=CC(F)=C(O)C=C3N(C2=C1C(=O)O)C4CC4"
+  },
+  {
+    "DRUG NAME":"Amoxicillin",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1(C(NC2=NC=NC(=N2)N)=O)C(=O)N(C1=O)CO"
+  },
+  {
+    "DRUG NAME":"Clarithromycin",
+    "EXCIPIENT NAME":"Talc",
+    "SMILE CODE (drug)":"CC1OC(C(C(O1)OC)OC2C(C(C(O2)OC)O)N(C)C)OC3=CC(=O)OC4C(C(C(C(O4)OC)O)OC)C"
+  },
+  {
+    "DRUG NAME":"Amlodipine besylate",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(C)CC(C2=CC=CC=C2Cl)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Losartan potassium",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CCCCC1=NC(=NO1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Telmisartan",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"COC1=NC=NC2=CC=CC=C12"
+  },
+  {
+    "DRUG NAME":"Glimepiride",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC1=NC(NC(=O)NS(=O)C2=CC=CC=C2)=NO1"
+  },
+  {
+    "DRUG NAME":"Metoprolol succinate",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Bisoprolol fumarate",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COC1=CC=C(C=C1)C"
+  },
+  {
+    "DRUG NAME":"Propranolol HCl",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(C)NCC(O)COC1=CC=CC=C1"
+  },
+  {
+    "DRUG NAME":"Hydrochlorothiazide",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"ClC1=CC=C(S(=O)(=O)NNC2=NC=NC=C2)C=C1"
+  },
+  {
+    "DRUG NAME":"Furosemide",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"O=S(=O)(NC1=CC=C(Cl)C=C1)NC2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Clopidogrel bisulfate",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(C)CC(C2=CC=CC=C2)S(=O)=O"
+  },
+  {
+    "DRUG NAME":"Aspirin",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC(=O)OC1=CC=CC=C1C(=O)O"
+  },
+  {
+    "DRUG NAME":"Levodopa",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"NC(Cc1ccc(O)c(O)c1)C(=O)O"
+  },
+  {
+    "DRUG NAME":"Risperidone",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC1=NC2=CC=CC=C2N1CCN3CCOCC3"
+  },
+  {
+    "DRUG NAME":"Quetiapine fumarate",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CCOCCN1CCN(CC1)C2=CC=CC=C2"
+  },
+  {
+    "DRUG NAME":"Ondansetron HCl",
+    "EXCIPIENT NAME":"Croscarmellose sodium",
+    "SMILE CODE (drug)":"CC1=NC2=CC=CC=C2N1CCN"
+  },
+  {
+    "DRUG NAME":"Paracetamol",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(=O)NC1=CC=C(O)C=C1"
+  },
+  {
+    "DRUG NAME":"Aceclofenac",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"O=C(O)COC1=CC=CC=C1NC2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Ketorolac tromethamine",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CC(C)(C)NCC(O)COC1=CC=C(Cl)C=C1"
+  },
+  {
+    "DRUG NAME":"Tramadol HCl",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CN(C)CC(C1=CC=CC=C1)O"
+  },
+  {
+    "DRUG NAME":"Diltiazem HCl",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OC(C)CN2CCCCC2"
+  },
+  {
+    "DRUG NAME":"Prochlorperazine maleate",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CN1CCN(CC1)C2=CC=CC=C2SC3=CC=CC=C3"
+  },
+  {
+    "DRUG NAME":"Chlorpheniramine maleate",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CN(C)CCC(C1=CC=CC=C1)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Levocetirizine dihydrochloride",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"COC1=CC=CC=C1OCCN(CC)C2=CC=CC=C2Cl"
+  },
+  {
+    "DRUG NAME":"Piracetam",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"N1CCCC(=O)N(C)C1=O"
+  },
+  {
+    "DRUG NAME":"Theophylline",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)N(C(=O)N2)C"
+  },
+  {
+    "DRUG NAME":"Ascorbic acid",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"OC1=CC(O)=C(O)C(CO)=O1"
+  },
+  {
+    "DRUG NAME":"Caffeine",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CN1C=NC2=C1C(=O)N(C(=O)N2)C"
+  },
+  {
+    "DRUG NAME":"Domperidone",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"ClC1=CC=C(C=C1)C(CCN2CCN(CC2)CC3=CC=CC=C3)O"
+  },
+  {
+    "DRUG NAME":"Ranitidine HCl",
+    "EXCIPIENT NAME":"Sodium starch glycolate",
+    "SMILE CODE (drug)":"CN=C(N)N=C(N)NCCSC1=CC=C(C=C1)Cl"
+  }
+]
