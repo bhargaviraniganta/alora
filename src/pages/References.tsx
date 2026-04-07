@@ -16,7 +16,7 @@ const resources = [
     category: "Excel Resource",
     description:
       "Excel workbook containing all training data and the reference links for research papers used in this project.",
-    href: "/MP-DRG EXP (1).xlsx",
+    href: "/training-data-references.xlsx",
     ariaLabel: "Open training data and research paper references Excel file",
   },
 ] as const;
